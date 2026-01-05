@@ -1,4 +1,4 @@
-#EDUNET Cybersecurity with generative AI
+#EDUNET-Cybersecurity-with-generative-AI
 
 🚀 Cybersecurity & Network Security Learning Journey
 
